@@ -4,4 +4,5 @@ H채r kommer jag dokumentera min utveckling och mina projekt under programmets g�
 ## Det h채r l채r jag mig just nu
 - Strukturera webbsidor med **HTML**
 - Hantera 채ndringar och kod med **Git och GitHub**
+
 *Den h채r profilen kommer v채xa i takt med att jag l채r mig mer.*
